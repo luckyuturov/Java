@@ -11,7 +11,7 @@ public class PhraseOMatic {
         int twoLength = wordListTwo.length;
         int threeLength = wordListThree.length;
 
-        //generate three random number
+        //generate three random number2
         int rand1 = (int) (Math.random() * oneLength);
         int rand2 = (int) (Math.random() * twoLength);
         int rand3 = (int) (Math.random() * threeLength);
